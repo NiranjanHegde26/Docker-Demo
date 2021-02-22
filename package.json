@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-dockers",
+  "version": "1.0.0",
+  "description": "\"Containersing the simple Node.js application\"",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NiranjanHegde26",
+  "license": "ISC"
+}
